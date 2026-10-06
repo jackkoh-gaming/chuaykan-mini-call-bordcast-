@@ -88,7 +88,7 @@ APK ที่จัดไว้ยังใช้การเชื่อมต�
 
 ### 1. เปิดโปรแกรม Windows
 
-1. แตกไฟล์ `Chuaykan-EOC-2.4.27-Windows-x64.zip` ทั้งโฟลเดอร์
+1. แตกไฟล์ `Chuaykan-2.4.32-Windows-x64-Oracle.exe` ทั้งโฟลเดอร์
 2. เปิด `Chuaykan.exe` โดยเก็บโฟลเดอร์ `_internal` ไว้คู่กัน
 3. อ่านข้อตกลงก่อนเข้าใช้งาน
 4. ให้ผู้ดูแลตั้งค่าเกตเวย์ Oracle และ credentials ส่วนตัวตาม `README.md` ที่แนบในชุด Windows
